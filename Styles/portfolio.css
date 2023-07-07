@@ -20,6 +20,11 @@ h6 {
   text-align: center;
   padding: 160px 20px;
 }
+p {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.7;
+}
 .hero p {
   font-size: 36px;
   font-weight: 700;
@@ -29,6 +34,9 @@ h6 {
   font-size: 96px;
   font-family: var(--heading-font-family);
   font-weight: 800;
+}
+h2 {
+  font-size: 64px;
 }
 .hero h2 {
   font-family: var(--default-font-family);
@@ -44,4 +52,12 @@ h6 {
   font-size: 18px;
   line-height: 27px;
   padding: 12px 20px;
+}
+.btn-branding-outline {
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 12px 20px;
+  color: var(--branding-color);
+  border: 1px solid var(--branding-color);
 }
