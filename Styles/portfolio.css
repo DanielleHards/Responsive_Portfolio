@@ -36,22 +36,19 @@ nav li.active a {
 }
 h1,
 h2,
-h3,
-h4,
-h5,
-h6 {
+h3 {
   font-family: var(--heading-font-family);
 }
-h4 {
+h3 {
   font-size: 48px;
 }
 .hero {
   background-color: var(--secondary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 .content {
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 p {
   font-weight: normal;
@@ -173,13 +170,7 @@ footer .social-links a:hover {
   h2 {
     font-size: 42px;
   }
-  h4 {
-    font-size: 26px;
-  }
 
-  .hero {
-    padding: 80px 20px;
-  }
   .content {
     text-align: center;
     padding: 0;
@@ -187,8 +178,5 @@ footer .social-links a:hover {
   .project-description {
     padding: 0;
     text-align: center;
-  }
-  footer .contact-box {
-    padding: 30px;
   }
 }
