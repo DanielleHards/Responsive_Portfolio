@@ -159,6 +159,10 @@ footer .social-links a:hover {
   color: white;
   background: var(--branding-color);
 }
+.project-repo-link {
+  color: var(--branding-color);
+  text-decoration: none;
+}
 @media (max-width: 960px) {
   nav a {
     font-size: 14px;
