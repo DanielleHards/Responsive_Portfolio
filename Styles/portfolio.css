@@ -168,7 +168,7 @@ footer .social-links a:hover {
     font-size: 14px;
   }
   h1 {
-    font-size: 44px;
+    font-size: 44px !important;
     line-height: 2;
   }
   h2 {
