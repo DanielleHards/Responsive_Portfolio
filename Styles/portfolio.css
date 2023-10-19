@@ -106,6 +106,14 @@ h2 {
   line-height: 27px;
   padding: 12px 20px;
 }
+.work {
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 18px;
+  color: var(--branding-color);
+  display: block;
+  text-align: center;
+}
 .btn-branding-outline {
   border-radius: 4px;
   font-size: 18px;
